@@ -8,7 +8,7 @@ Created on Sun Jan  5 05:53:00 2025
 from pyomo.environ import *
 
 model = ConcreteModel(name = "(H)")
-
+#novo
 
 A = ['Scoops', 'Peanuts']
 
