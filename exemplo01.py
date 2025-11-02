@@ -17,7 +17,7 @@ h = {'Scoops': 1, 'Peanuts': 0.1}
 d = {'Scoops': 5, 'Peanuts': 27}
 c = {'Scoops': 3.14, 'Peanuts': 0.27}
 b = 12
-u  = {'Scoops': 100, 'Peanuts': 40.6}
+u  = {'Scoops': 99, 'Peanuts': 40.6}
 
 def x_bounds(m, i):
     return (0, u[i])
